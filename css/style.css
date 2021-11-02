@@ -1,0 +1,36 @@
+.calculator {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.buttons-operation {
+    margin-top: 20px;
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.result__button {
+    width: 100px;
+    border-color: bisque;
+    background-color: burlywood;
+    
+}
+
+.result__text {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    border: 1px solid palegoldenrod;
+    margin-top: 20px;
+    width: 200px;
+    
+    
+}
